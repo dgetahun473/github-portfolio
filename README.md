@@ -6,7 +6,7 @@
 
 # Demo :movie_camera:
 
-![httpsgithub abusaid me](https://github.com/said7388/github-portfolio/assets/77630868/a331f996-1b4d-451a-941f-a15f5ae6de93)
+![httpsgithub abusaid me](https://github.com/dgetahun473/github-portfolio/assets/77630868/a331f996-1b4d-451a-941f-a15f5ae6de93)
 
 
 ## View live preview [here](https://my-github-portfolio.netlify.app/)
@@ -77,9 +77,9 @@ Eg:
 
 ```javascript
 export const userData = {
-  githubUser: "said7388",
-  devUsername: "said7388",
-  github: "https://github.com/said7388",
+  githubUser: "dgetahun473",
+  devUsername: "dgetahun473",
+  github: "https://github.com/dgetahun473",
   facebook: "https://www.facebook.com/abusaid.riyaz/",
   linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
   twitter: "https://twitter.com/said7388",
